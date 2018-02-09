@@ -61,5 +61,13 @@ return (0);
 
 Here is a quick overview of what the algorithm actually is
 
+### 4. Deduce the conditional probability of different events occurring within independent trials
 
+For my example of independant trials, I will be using dice rolling as there are varying probabilities for each result when rolling 2 or more dice, however for this theory experiment I will be rolling 2 dice.
+
+##### What is the probability of rolling a total of 7 when rolling two dice?
+
+To work this out we first need to determine how many possible outcomes there are when you throw 2 dice, these outcomes can include different rolls with the same total, (e.g. 5 and 1 or 3 and 3 are classed as different results even though the total is 6 in both rolls). To do this you simply multiply the number of outcomes for each individual variable, in this case, each die has 6 sides so 6x6 is 36
+
+Now you must determine how many of these possible outcomes will result in the predicted total 
 
