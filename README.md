@@ -69,5 +69,5 @@ For my example of independant trials, I will be using dice rolling as there are 
 
 To work this out we first need to determine how many possible outcomes there are when you throw 2 dice, these outcomes can include different rolls with the same total, (e.g. 5 and 1 or 3 and 3 are classed as different results even though the total is 6 in both rolls). To do this you simply multiply the number of outcomes for each individual variable, in this case, each die has 6 sides so 6x6 is 36
 
-Now you must determine how many of these possible outcomes will result in the predicted total, which in this case is 7. with 2 dice the possible combinations that result in 7 are as follows. 6 and 1, 5 and 2, 4 and 3, 3 and 4, 2 and 5, 1 and 6. Because there are 6 different combinations that 
+Now you must determine how many of these possible outcomes will result in the predicted total, which in this case is 7. with 2 dice the possible combinations that result in 7 are as follows. 6 and 1, 5 and 2, 4 and 3, 3 and 4, 2 and 5, 1 and 6. Because there are 6 different combinations that result in a total of 7, the chance of rolling a 7 is 6/36, which can be simplified down to 1/6.
 
