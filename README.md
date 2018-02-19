@@ -46,7 +46,6 @@ int arithmetic3 = arithmetic2 + input;
 
 int geometric3 = geometric2 * input;
 
-//adds 1 to loop variable
 loop++;
 
   cout<<"geometric value:";
