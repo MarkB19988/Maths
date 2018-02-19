@@ -14,6 +14,7 @@ The probability of a random integer being divisible by 5 is 1/5. To work this ou
 
 The following code snippet is an algorithm we created for calculating Arithmetic and Geometric progressions. The language used is C++
 
+
 #include <iostream>
 
 #include <cstdlib>
@@ -33,33 +34,48 @@ int loop = 0;
 
 do{
 
- 
-
-int geometric;
-
-input * input;
+int geometric = input * input;
 
 int arithmetic = input + input;
 
+int arithmetic2 = arithmetic + input;
 
+int geometric2 = geometric * input;
+
+int arithmetic3 = arithmetic2 + input;
+
+int geometric3 = geometric2 * input;
 
 //adds 1 to loop variable
 loop++;
 
-cout<<"geometric value:";
+  cout<<"geometric value:";
   cout<<geometric;
   cout<<"\n";
   cout<<"arithmetic value:";
   cout<<arithmetic;
+  cout<<"\n";
+  cout<<"geometric value:";
+  cout<<geometric2;
+  cout<<"\n";
+  cout<<"arithmetic value:";
+  cout<<arithmetic2;
+  cout<<"\n";
+  cout<<"geometric value:";
+  cout<<geometric3;
+  cout<<"\n";
+  cout<<"arithmetic value:";
+  cout<<arithmetic3;
+  cout<<"\n";
   
   
-} while( loop < 10 );
+  
+  
+} while( loop < 0 );
 return (0);
 
  
 }
-
-Here is a quick overview of what the algorithm actually is
 
 ### 4. Deduce the conditional probability of different events occurring within independent trials
 
