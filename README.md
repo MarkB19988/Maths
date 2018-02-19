@@ -15,9 +15,9 @@ The probability of a random integer being divisible by 5 is 1/5. To work this ou
 The following code snippet is an algorithm we created for calculating Arithmetic and Geometric progressions. The language used is C++
 
 
-#include <iostream>
+#include '<iostream>'
 
-#include <cstdlib>
+#include '<cstdlib>'
 
 using namespace std;
 
@@ -68,13 +68,9 @@ loop++;
   cout<<arithmetic3;
   cout<<"\n";
   
-  
-  
-  
 } while( loop < 0 );
 return (0);
 
- 
 }
 
 ### 4. Deduce the conditional probability of different events occurring within independent trials
