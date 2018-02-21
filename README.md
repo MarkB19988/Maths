@@ -10,7 +10,7 @@ The Least Common Multiple is the smallest number that is a multiple of 2 given n
 
 Random selection is only possible from a finite ammount. So what have to do is always select from a finite ammount but do the task repeatedly. Below is the formula you can use, you can input any random variable into the formula:
 
-[formula](https://i.imgur.com/SIZuZA6.jpg)
+![formula](https://i.imgur.com/SIZuZA6.jpg)
 
 As an example, The probability of a random integer being divisible by 5 is 1/5. To work this out we have to first break down the decimal system. In the decimal system there are ten possible digits that a number can end with in the units collum, that is 1,2,3,4,5,6,7,8,9,0. We also know that 5 can divide into any number that ends with a 5 or a 0. Now that we have this information we simply count how many numbers are in each list to get out probability. In this case we are left with a 2/10 which can be simplified down to 1/5.
 
