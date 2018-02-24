@@ -92,7 +92,7 @@ When you are developing software, you will often find that you will be creating 
 
 Every shape has their own unique properties, these properties are shown in the following tabel. Some share properties while others have properties that are completely unique.
 
-[Imgur](https://i.imgur.com/65etQxD.png)
+![Imgur](https://i.imgur.com/65etQxD.png)
 
 
 
