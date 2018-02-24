@@ -86,3 +86,11 @@ To work this out we first need to determine how many possible outcomes there are
 
 Now you must determine how many of these possible outcomes will result in the predicted total, which in this case is 7. with 2 dice the possible combinations that result in 7 are as follows. 6 and 1, 5 and 2, 4 and 3, 3 and 4, 2 and 5, 1 and 6. Because there are 6 different combinations that result in a total of 7, the chance of rolling a 7 is 6/36, which can be simplified down to 1/6.
 
+### 5. Identify Simple Shapes Using Co-Ordinate Geometry
+
+When you are developing software, you will often find that you will be creating shapes using co-ordinate geometry most of the time. Co-ordinate geometry is the rules by which different shapes can be created and identified. for example, an equallateral triangle must have 3 sides of the same length and 3 equal angles. By following these rules, you will always end up with an equallateral triangle.
+
+Every shape has their own unique properties, these properties are shown in the following tabel. Some share properties while others have properties that are completely unique.
+
+
+
