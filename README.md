@@ -100,6 +100,25 @@ Some of the forulae are shown as follows:
 
 ![formulae](https://i.imgur.com/Zd9ubFD.png)
 
+### 6. Determine shape parameters using appropriate vector methods
+
+### 7. Determine the rate of change within an algebraic function
+
+Average rate of change is the average rate that one value is changing with respect to another thing (e.g. another value) changing. While the idea sounds complex we are already familiar with a number of average rate change calculations. For example the term 'miles per hour' is a rate of change calculation. It is calculated by dividing the distance travelled in miles by the time it takes to travel them in hours.
+
+Generally speaking, the average rate of change function is a process that determines the ammount that one value changes by dividing it by the ammount of change in another value. The following formula uses function notation to show the average rate of change for function f from a to x.
+
+INSERT FORMULA
+
+An example of a rate of change calculation is as follows
+
+
+
+
+
+### 8. Use integral calculus to solve practical problems involving area
+
+
 
 
 
