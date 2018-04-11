@@ -105,7 +105,7 @@ Some of the formulae are shown as follows:
 A vector is a quantity that has two independent properties, these are magnitude and direction. The term also includes the mathematical or geometrical representation.
 
 To scale shapes and identify shape parameters I have created a formula that you can use to scale a shape using vector methods
-
+```
 <html>
 <body>
 
@@ -209,7 +209,7 @@ function shape(){
 
 </body>
 </html>
-
+```
 ### 7. Determine the rate of change within an algebraic function
 
 Average rate of change is the average rate that one value is changing with respect to another thing (e.g. another value) changing. While the idea sounds complex we are already familiar with a number of average rate change calculations. For example the term 'miles per hour' is a rate of change calculation. It is calculated by dividing the distance travelled in miles by the time it takes to travel them in hours.
