@@ -96,11 +96,15 @@ Every shape has their own unique properties, these properties are shown in the f
 
 There are also various formulae that can be used to identify shapes using co-ordinates. For example, because any square will always have 4 sides of the same length and 4 right angles. You can desplay the co-ordinates of the vertices of the square like this - (3,3) (3,-3 (-3,3) (-3,-3), this is because each vertex is a direct opposite of on another because all lengths and angles are the same.
 
-Some of the forulae are shown as follows:
+Some of the formulae are shown as follows:
 
 ![formulae](https://i.imgur.com/Zd9ubFD.png)
 
 ### 6. Determine shape parameters using appropriate vector methods
+
+A vector is a quantity that has two independent properties, these are magnitude and direction. The term also includes the mathematical or geometrical representation.
+
+To scale shapes and identify shape parameters I have created a formula that you can use
 
 ### 7. Determine the rate of change within an algebraic function
 
