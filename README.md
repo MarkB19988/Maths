@@ -118,6 +118,24 @@ An example of a rate of change calculation is as follows
 
 ### 8. Use integral calculus to solve practical problems involving area
 
+Intergral calculas is used to calculate whats inside a curve, if the shape is normal or common then you don't have to use integral calculus. However if the shape is more complex, then you can use the given a and b points on a graph to work out the area of a to b.
+
+Here are some example formulae for integral calculus:
+
+![calculus](https://i.imgur.com/4sY1T77.png)
+
+The Integral symbol ∫ ,represents intergration, this means the finding of an integral. The opposite of this is derivation. The a and b signs are placed on each side of the ∫ symbol since we want to calculate from a to b. The symbol dx represents the differential of the variable x, indicates that the variable of integration is x. Finding the area to the x axis from the curve means we have to find the integral of a function with respect to x.
+
+A 'higher derirative' is a way of essentially making a complex funtion simpler .Where a simple function is also called a liniaer function as it is portrayed as a line on a graph, but when the function is more complex it becomes curved, a higher derirative is a way of converting a curved line into a straight line. X is infinite, meaning that the whole infinite (x) can be divided into segments and by using each part a sum may be reached.
+
+By multiplying the function by the derivative of the function, we can calculate the area by creating an infinite area of rectangles to find the area. Because we already know the formula for the area of a rectangle, it makes it simple to calculate.
+
+![Graph](https://i.imgur.com/NnqLOp3.png)
+
+![Rec](https://i.imgur.com/IGeVbPZ.png)
+
+
+
 
 
 
