@@ -216,9 +216,8 @@ Average rate of change is the average rate that one value is changing with respe
 
 Generally speaking, the average rate of change function is a process that determines the ammount that one value changes by dividing it by the ammount of change in another value. The following formula uses function notation to show the average rate of change for function f from a to x.
 
-INSERT FORMULA
+![Imgur](https://i.imgur.com/ZsFXPjx.jpg)
 
-An example of a rate of change calculation is as follows
 
 
 
