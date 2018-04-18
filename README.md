@@ -218,6 +218,22 @@ Generally speaking, the average rate of change function is a process that determ
 
 ![Imgur](https://i.imgur.com/ZsFXPjx.jpg)
 
+Here are some examples of rate of change calculations
+```
+F(x) = x²
+	Rate of change from 1 to 3
+	(3² - 1²) / (3-1) = (9-1) / (3-1) = 8/2 = 4
+
+This answer converted into binary is 0100
+  
+	
+    F(x) = 2x+3
+    	Rate of change from 10 to 100
+	(2*100+3) - (2*10+3) / (100 - 10) = 180/90 = 2
+
+This answer converted into hexadecimals is 2
+
+  ```
 
 
 
